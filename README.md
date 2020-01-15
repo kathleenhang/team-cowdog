@@ -1,6 +1,9 @@
-iOS applications by Ubaldo/Kathleen 
-contact: mail@teamcowdog.com 
-artist: https://www.instagram.com/ubaldo_sketchybot/ 
+iOS applications by Ubaldo/Kathleen  
+
+contact: mail@teamcowdog.com  
+
+artist: https://www.instagram.com/ubaldo_sketchybot/  
+
 programmer: https://github.com/kathleenhang 
 
 # Puggy Sticker Pack
