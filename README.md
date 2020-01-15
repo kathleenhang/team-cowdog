@@ -5,7 +5,7 @@ artist: <https://www.instagram.com/ubaldo_sketchybot/>
 programmer: <https://github.com/kathleenhang>
 
 # Puggy Sticker Pack
-[Privacy Policy - Puggy Sticker Pack](../team-cowdog/master/privacy_policy_puggy.md)
+[Privacy Policy](../team-cowdog/master/privacy_policy_puggy.md)
 
 <img width="540" alt="2" src="https://user-images.githubusercontent.com/2395780/72401082-ed0f8880-36ff-11ea-8ac4-cd533c7d3393.png">
 <img width="584" alt="3" src="https://user-images.githubusercontent.com/2395780/72401083-ed0f8880-36ff-11ea-8df3-626d51ec1974.png">
