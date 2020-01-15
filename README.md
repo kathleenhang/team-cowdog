@@ -11,7 +11,7 @@ programmer: <https://github.com/kathleenhang>
 <img width="584" alt="5" src="https://user-images.githubusercontent.com/2395780/72401085-eda81f00-36ff-11ea-8e80-4dc49fe03aba.png">
 <img width="540" alt="1" src="https://user-images.githubusercontent.com/2395780/72401086-eda81f00-36ff-11ea-9a61-b7114627ec46.png">
 
-[Privacy Policy](privacy_policy_puggy.md)
+[Privacy Policy - Puggy Sticker Pack](privacy_policy_puggy.md)
 
 # Tic-Tac-Toe Battle Simulator
 - Main Menu Screen
