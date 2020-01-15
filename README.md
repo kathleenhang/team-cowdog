@@ -34,4 +34,7 @@ programmer: https://github.com/kathleenhang
 
 - Final Victory Screen
 
+(incomplete)
+
+- App Overview
 <img width="1427" alt="overview" src="https://user-images.githubusercontent.com/2395780/72402026-99526e80-3702-11ea-935d-d5485c1bd81c.png">
