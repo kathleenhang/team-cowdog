@@ -1,4 +1,3 @@
-iOS applications by Ubaldo/Kathleen  
 ![TeamCowDogLogo](https://user-images.githubusercontent.com/2395780/72453397-ddca2280-3773-11ea-9feb-50df1345af23.png)
 contact: <mail@teamcowdog.com>  
 artist: <https://www.instagram.com/ubaldo_sketchybot/>  
