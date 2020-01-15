@@ -13,7 +13,25 @@ programmer: https://github.com/kathleenhang
 
 # Tic-Tac-Toe Battle Simulator
 - Main Menu Screen
+
+<img width="1050" alt="main" src="https://user-images.githubusercontent.com/2395780/72402027-99eb0500-3702-11ea-8b50-aa0cc397b589.png">
+
 - Character Selection Screen
+
+<img width="1050" alt="selectnumplayer" src="https://user-images.githubusercontent.com/2395780/72402028-99eb0500-3702-11ea-81c8-d0c1b8475cbe.png">
+
+<img width="1050" alt="charselect" src="https://user-images.githubusercontent.com/2395780/72402029-99eb0500-3702-11ea-85e1-7c75359f3fd5.png">
+
 - Gameplay Screen
+
+<img width="1050" alt="gameplay" src="https://user-images.githubusercontent.com/2395780/72402025-99526e80-3702-11ea-852b-0dfa49a93f8b.png">
+
+<img width="1050" alt="gameplay2" src="https://user-images.githubusercontent.com/2395780/72402023-99526e80-3702-11ea-8ca2-2877e531925b.png">
+
 - Battle Animation Scene
+
+<img width="1050" alt="battlescene" src="https://user-images.githubusercontent.com/2395780/72402024-99526e80-3702-11ea-84db-4b37ecdece35.png">
+
 - Final Victory Screen
+
+<img width="1427" alt="overview" src="https://user-images.githubusercontent.com/2395780/72402026-99526e80-3702-11ea-935d-d5485c1bd81c.png">
