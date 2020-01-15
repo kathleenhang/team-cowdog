@@ -2,9 +2,7 @@ iOS applications by Ubaldo/Kathleen
 
 contact: mail@teamcowdog.com  
 
-https://www.instagram.com/ubaldo_sketchybot/  
-
-https://github.com/kathleenhang
+https://www.instagram.com/ubaldo_sketchybot/  https://github.com/kathleenhang
 
 # Puggy Sticker Pack
 <img width="540" alt="2" src="https://user-images.githubusercontent.com/2395780/72401082-ed0f8880-36ff-11ea-8ac4-cd533c7d3393.png">
