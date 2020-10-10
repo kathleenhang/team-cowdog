@@ -3,4 +3,5 @@
 <p><img style="display: block; margin-left: auto; margin-right: auto;" src="https://user-images.githubusercontent.com/2395780/95665881-2b0fd080-0b09-11eb-95fa-2e4c71280bee.png" alt="pug-screen" width="545" align="center" /></p>
 <h3 style="text-align: center;">Puggy Sticker Pack</h3>
 <p style="text-align: center;">17 Animated Pug Emojis</p>
+<p><a href="https://apps.apple.com/us/app/puggy-sticker-pack-fun-emoji/id1507052503?itsct=apps_box&amp;itscg=30200"> <img style="display: block; margin-left: auto; margin-right: auto;" src="https://user-images.githubusercontent.com/2395780/95666274-e128e980-0b0c-11eb-9f9d-b37474cf28a3.png" width="202" /></a></p>
 <p style="text-align: center;"><a href="http://www.teamcowdog.com/privacy_policy_puggy.html">Privacy Policy - Puggy Sticker Pack</a></p>
