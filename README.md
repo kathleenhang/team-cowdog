@@ -1,4 +1,4 @@
-<p style="text-align: right;"><img style="text-align: center; display: block; margin-left: auto; margin-right: auto;" src="https://user-images.githubusercontent.com/2395780/72453397-ddca2280-3773-11ea-9feb-50df1345af23.png" alt="" width="519" height="241" /></p>
+<p style="text-align: right;"><img style="text-align: center; display: block; margin-left: auto; margin-right: auto;" src="https://user-images.githubusercontent.com/2395780/72453397-ddca2280-3773-11ea-9feb-50df1345af23.png" alt="" width="519" height="251" /></p>
 <h2 style="text-align: center;">Your daily dosage of Pug Emojis.</h2>
 <p><img style="display: block; margin-left: auto; margin-right: auto;" src="https://user-images.githubusercontent.com/2395780/95665881-2b0fd080-0b09-11eb-95fa-2e4c71280bee.png" alt="pug-screen" width="545" align="center" /></p>
 <h3 style="text-align: center;">Puggy Sticker Pack</h3>
