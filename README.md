@@ -3,12 +3,21 @@ contact: <mail@teamcowdog.com>
 artist: <https://www.instagram.com/ubaldo_sketchybot/>  
 programmer: <https://github.com/kathleenhang>
 
-# Puggy Sticker Pack
-<img width="540" alt="2" src="https://user-images.githubusercontent.com/2395780/72401082-ed0f8880-36ff-11ea-8ac4-cd533c7d3393.png">
-<img width="584" alt="3" src="https://user-images.githubusercontent.com/2395780/72401083-ed0f8880-36ff-11ea-8df3-626d51ec1974.png">
-<img width="584" alt="4" src="https://user-images.githubusercontent.com/2395780/72401084-ed0f8880-36ff-11ea-9e62-b41abd80c266.png">
-<img width="584" alt="5" src="https://user-images.githubusercontent.com/2395780/72401085-eda81f00-36ff-11ea-8e80-4dc49fe03aba.png">
-<img width="540" alt="1" src="https://user-images.githubusercontent.com/2395780/72401086-eda81f00-36ff-11ea-9a61-b7114627ec46.png">
+<div align="center">
+
+# Daily Dosage of Pug Emojis
+</div>
+
+
+
+<img width="545" alt="pug-screen" src="https://user-images.githubusercontent.com/2395780/95664746-8937b600-0aff-11eb-8cdf-fb0874f7a9ec.png">
+
+
+
+## Puggy Sticker Pack
+### 17 Animated Pug Emojis
+
+<a href="https://apps.apple.com/us/app/puggy-sticker-pack-fun-emoji/id1507052503?itsct=apps_box&amp;itscg=30200" style="display: inline-block; overflow: hidden; border-radius: 13px; width: 250px; height: 83px;"><img src="https://tools.applemediaservices.com/api/badges/download-on-the-app-store/black/en-US?size=250x83&amp;releaseDate=1599782400&h=be1ea56042b228c13f0af4e5dbbe0079" alt="Download on the App Store" style="border-radius: 13px; width: 250px; height: 83px;"></a>
 
 [[ Privacy Policy - Puggy Sticker Pack ]](privacy_policy_puggy.md)
 
